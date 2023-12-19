@@ -1,0 +1,9 @@
+go 1.21.3
+
+use (
+"./single-producer-consumer/consumer"
+"./single-producer-consumer/producer"
+"./multiple-consumers-single-producer/consumer_1"
+"./multiple-consumers-single-producer/consumer_2"
+"./multiple-consumers-single-producer/producer"
+)
