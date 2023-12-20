@@ -6,4 +6,9 @@ use (
 "./multiple-consumers-single-producer/consumer_1"
 "./multiple-consumers-single-producer/consumer_2"
 "./multiple-consumers-single-producer/producer"
-)
+"./multiple-partitions/consumers_1"
+"./multiple-partitions/consumers_2"
+"./multiple-partitions/consumers_3"
+"./multiple-partitions/producer"
+"./multiple-partitions/admin"
+ )
